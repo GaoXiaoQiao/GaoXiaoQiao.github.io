@@ -1,5 +1,6 @@
 <h5>control<h5>
-<br>Package: 
+<br>
+Package: 
 Name: 
 Depends: 
 Architecture: 
@@ -9,4 +10,5 @@ Maintainer:
 Author: 
 Section: 
 Version: 
-Installed-Size: </br>
+Installed-Size: 
+</br>
